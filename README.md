@@ -3,6 +3,10 @@
 **ESP32-based Smart USB Power Controller with Home Assistant (MQTT)**
 **基于 ESP32 的智能 USB 电源控制器，支持 Home Assistant（MQTT）**
 
+![Smart USB Power Controller](images/3.png)
+
+<img src="images/1.png" alt="Smart USB Power Controller" style="zoom:50%;" />
+
 ------
 
 ## Features | 功能特性
@@ -21,6 +25,7 @@
   **WiFi / MQTT 自动重连**
 - 🌐 **HTTP OTA Firmware Update**
   **HTTP 在线固件升级（OTA）**
+- <img src="images/2.png" alt="Smart USB Power Controller" style="zoom:60%;" />
 
 ------
 
